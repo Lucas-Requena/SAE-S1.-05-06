@@ -12,3 +12,4 @@ Etudiant 4 : [OLIVRY romain](mailto:rolivry@edu.univ-fcomte.fr?subject=SAE_1_05_
 
 # Présentation du projet
 
+Nous présentons par le biais d'un rapport et d'un site web le positionement économique d'Ubisoft qui nous à embauché pour le faire.
