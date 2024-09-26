@@ -4,12 +4,11 @@
 
 [SAE-S1.-05-06](https://lucas-requena.github.io/SAE-S1.-05-06/)
 
-<h1>groupe 13:</h1>
-<div>référent: Lucas Requena</div>
-<div>email: lucas.requena@edu.univ-fcomte.fr</div>
+## Membres du groupe :
+Etudiant 1 (référent du groupe) :[REQUENA lucas](mailto:lrequena@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
+Etudiant 2 : [PASTEUR julian](mailto:jpasteu4@edu.univ-fcomte.fr?subject=SAE_1_05_06)   
+Etudiant 3 : [PAMBOT gédeon](mailto:gpambot@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
+Etudiant 4 : [OLIVRY romain](mailto:rolivry@edu.univ-fcomte.fr?subject=SAE_1_05_06)  
 
-<div>étudiant2: PASTEUR julian</div>
-<div>étudiant3: PAMBOT gédeon</div>
-<div>étudiant4: OLIVRY romain</div>
+# Présentation du projet
 
-<h1></h1>
