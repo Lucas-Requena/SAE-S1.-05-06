@@ -1,4 +1,4 @@
-# https-github.com-lrequena-SAE-S1.-05-06
+# SAE-S1.-05-06 Ubisoft
 
 <h1>groupe 13:</h1>
 <div>référent: Lucas Requena</div>
