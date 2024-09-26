@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    background-color: rgb(42, 48, 133);
+}
+
+header {
+    height: 75px;
+    background-color: rgb(15, 31, 82);
+    border-bottom: solid black 2px;
+    width: 100%;
+    position: fixed;
+}
+
+.menu{
+    padding-top: 10px;
+    border-spacing: 170px 0px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.menu1{
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px 15px;
+    text-align: center;
+    height: 45px;
+    width: 270px;
+    border: solid black 2px;
+    transition: 0.4s;
+}
+
+.menu1:hover{
+    height: 50px;
+    width: 310px;
+    background-color: rgb(84, 121, 189);
+}
+
+.menu2{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+        top: 3%;
+        right: 1.4%;
+}
+
+.menu3{
+    height: 70px;
+    width: 65px;
+    position: absolute;
+        top: 0.3%;
+        left: 1.2%;
+}
+
+.Ubisoft{
+    height: 40%;
+    width: 50%;
+}
