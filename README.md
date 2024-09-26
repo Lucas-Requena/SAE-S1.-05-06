@@ -12,4 +12,4 @@ Etudiant 4 : [OLIVRY romain](mailto:rolivry@edu.univ-fcomte.fr?subject=SAE_1_05_
 
 # Présentation du projet
 
-Nous présentons par le biais d'un rapport et d'un site web le positionement économique d'Ubisoft qui nous à embauché pour le faire.
+Nous présentons par le biais d'un rapport et d'un site web le positionement économique d'Ubisoft qui nous à embauché pour le faire. le site web sera composé d'un menu présentant ubisoft et d'inciter les personne à consulter le site, en plus du menu le site web sera composé de 4 page web dont une faisant la présentation économique d'ubisoft, d'une page présentant plusieurs jeux video d'ubisoft, d'une page de connexion avec un formulaire pour se connecter et d'une page 'contact' avec les nos coordonées professionnel.Acco
