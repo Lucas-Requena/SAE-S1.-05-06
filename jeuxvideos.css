@@ -1,7 +1,4 @@
 body{
-    margin-left: 0px;
-    margin-right: 0px
-    margin-top: 0px;
     background-color: light-blue;
     font-family: "Lato", sans-serif;
     font-weight: 550;
@@ -10,6 +7,9 @@ body{
 }
 
 header {
+    margin-top: 0px;
+    margin-right: 0px
+    margin-top: 0px;
     height: 75px;
     background-color: rgb(122, 166, 233);
     border-bottom: solid rgb(255, 255, 255) 2px;
