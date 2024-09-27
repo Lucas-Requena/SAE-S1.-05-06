@@ -112,13 +112,11 @@ section .div1 , section .div2 {
     height: 100%;
     width: 50%;
 }
+.div1{
+    height: 500px;
+}
 section div button {
     margin-top: 35px;
-}
-
-.img1{
-    hight: 500px;
-    margin-bottom: 40px;
 }
 
 .section__1 .div2 {
