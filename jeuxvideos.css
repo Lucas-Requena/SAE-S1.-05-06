@@ -1,24 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
-}
-
 body{
     margin: 0px;
-    background-color: rgb(87, 87, 190);
+    background-image: url(fond.png);
+    font-family: "Lato", sans-serif;
+    font-weight: 550;
+    font-style: normal;
+    text-decoration-color: white;
 }
 
 header {
     height: 75px;
-    background-color: rgb(15, 31, 82);
-    border-bottom: solid black 2px;
+    background-color: rgb(122, 166, 233);
+    border-bottom: solid rgb(255, 255, 255) 2px;
     width: 100%;
     position: fixed;
-        top: 0px;
-    margin-bottom: 130px;
 }
 
 .menu{
@@ -28,24 +22,18 @@ header {
 
 a{
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 .menu1{
+    height: 50px;
+    width: 120px;
     transition-duration: 0.5s;
-    background-color: rgb(255, 255, 255);
-    border-radius: 15px 15px;
     text-align: center;
-    height: 45px;
-    width: 270px;
-    border: solid #000000 2px;
-    box-shadow: 8px 5px 7px rgba(0, 0, 0, 0.63) 
-}
+}   
 
 .menu1:hover{
-    height: 50px;
-    width: 310px;
-    background-color: rgb(84, 121, 189);
+    background-color: rgba(41, 101, 221, 0.705);
 }
 
 .menu2{
@@ -57,10 +45,10 @@ a{
 }
 
 .menu3{
-    height: 70px;
-    width: 65px;
+    height: 60px;
+    width: 70px;
     position: absolute;
-        top: 0.3%;
+        top: 10%;
         left: 1.2%;
 }
 .section2{
