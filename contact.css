@@ -1,3 +1,8 @@
+body{
+    margin: 0px;
+    background-color: rgb(87, 87, 190);
+}
+
 header {
     height: 75px;
     background-color: rgb(15, 31, 82);
