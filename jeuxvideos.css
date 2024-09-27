@@ -57,7 +57,9 @@ a{
         top: 0.3%;
         left: 1.2%;
 }
-
+.section2{
+    margin-top: 220px;
+}
 
 button {
     padding: 6px 15px;
