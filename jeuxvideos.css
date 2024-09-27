@@ -115,6 +115,12 @@ section .div1 , section .div2 {
 section div button {
     margin-top: 35px;
 }
+
+.img1{
+    hight: 500px;
+    margin-bottom: 40px;
+}
+
 .section__1 .div2 {
     background-color: #1e3932;
 }
