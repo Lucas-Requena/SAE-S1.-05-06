@@ -3,15 +3,18 @@ body{
     font-family: "Lato", sans-serif;
     font-weight: 550;
     font-style: normal;
-    text-decoration-color: white;
 }
 
 header {
+    z-index: 3;
     height: 75px;
     background-color: rgb(122, 166, 233);
     border-bottom: solid rgb(255, 255, 255) 2px;
     width: 100%;
     position: fixed;
+        top: 0px;
+        left: 0px;
+        right: 0px;
 }
 
 .menu{
@@ -49,10 +52,6 @@ a{
     position: absolute;
         top: 10%;
         left: 1.2%;
-}
-
-.class1{
-    margin-top: 700px;
 }
 
 .section_title {
