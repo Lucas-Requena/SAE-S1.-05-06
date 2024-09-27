@@ -1,5 +1,5 @@
 body{
-    background-color: light-blue;
+    background-color: cyan;
     font-family: "Lato", sans-serif;
     font-weight: 550;
     font-style: normal;
@@ -112,7 +112,7 @@ section div button {
 }
 
 .section__1 .div2 {
-    background-color: #1e3932;
+    background-color: rgb(122, 166, 233);
 }
 .section__1 .div2 h2 {
     color:rgb(27, 48, 112) ;
@@ -135,47 +135,47 @@ section p {
 }
 
 .section__1 {
-    background-color: rgb(27, 48, 112);
+    background-color: rgb(122, 166, 233);
 }
 
 .section__2 {
-    background-color: rgb(27, 48, 112);
+    background-color: rgb(122, 166, 233);
 }
 
 .section__3 {
-    background-color: rgb(27, 48, 112);
+    background-color: rgb(122, 166, 233);
 }
 
 .section__4 {
-    background-color: rgb(27, 48, 112);
+    background-color: rgb(122, 166, 233);
 }
 
 .section__5 {
-    background-color: rgb(27, 48, 112);
+    background-color: rgb(122, 166, 233);
 }
 
 .section__6{
-    background-color: rgb(27, 48, 112);
+    background-color: rgb(122, 166, 233);
 }
 
 .section__7{
-    background-color: rgb(27, 48, 112);
+    background-color: rgb(122, 166, 233);
 }
 
 .section__7{
-    background-color: rgb(27, 48, 112);
+    background-color: rgb(122, 166, 233);
 }
 
 .section__8{
-    background-color: rgb(27, 48, 112);
+    background-color: rgb(122, 166, 233);
 }
 
 .section__9{
-    background-color: rgb(27, 48, 112);
+    background-color: rgb(122, 166, 233);
 }
 
 .section__10{
-    background-color: rgb(27, 48, 112);
+    background-color: rgb(122, 166, 233);
 }
 
 footer{
