@@ -109,3 +109,13 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+footer{
+    height: 115px;
+    background-color: rgb(15, 31, 82);
+    border-top: solid black 2px;
+    width: 100%;
+    position: relative;
+        top: 170px;
+        right: 0px;
+        left: 0px;
+}
