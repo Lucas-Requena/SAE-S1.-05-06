@@ -1,9 +1,8 @@
 body{
-    background-color: cyan;
+    background-color: rgb(175, 216, 243);;
     font-family: "Lato", sans-serif;
     font-weight: 550;
     font-style: normal;
-    text-decoration-color: white;
 }
 
 header {
@@ -137,43 +136,53 @@ section p {
 
 .section__2 {
     background-color: rgb(122, 166, 233);
-    margin-top: 225px;
+    margin-top: 100px;
+    color: white;
 }
 
 .section__3 {
     background-color: rgb(122, 166, 233);
+    color: white;
 }
 
 .section__4 {
     background-color: rgb(122, 166, 233);
+    color: white;
 }
 
 .section__5 {
     background-color: rgb(122, 166, 233);
+    color: white;
 }
 
 .section__6{
     background-color: rgb(122, 166, 233);
+    color: white;
 }
 
 .section__7{
     background-color: rgb(122, 166, 233);
+    color: white;
 }
 
 .section__7{
     background-color: rgb(122, 166, 233);
+    color: white;
 }
 
 .section__8{
     background-color: rgb(122, 166, 233);
+    color: white;
 }
 
 .section__9{
     background-color: rgb(122, 166, 233);
+    color: white;
 }
 
 .section__10{
     background-color: rgb(122, 166, 233);
+    color: white;
 }
 
 footer{
