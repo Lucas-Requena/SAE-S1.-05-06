@@ -54,9 +54,6 @@ a{
         top: 10%;
         left: 1.2%;
 }
-.section2{
-    margin-top: 220px;
-}
 
 button {
     padding: 6px 15px;
@@ -140,6 +137,7 @@ section p {
 
 .section__2 {
     background-color: rgb(122, 166, 233);
+    margin-top: 225px;
 }
 
 .section__3 {
