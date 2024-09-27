@@ -4,6 +4,7 @@ body{
 }
 
 header {
+    z-index: 3;
     height: 75px;
     background-color: rgb(15, 31, 82);
     border-bottom: solid black 2px;
