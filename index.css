@@ -66,6 +66,9 @@ a{
     height: 1300px;
     box-shadow: 0px 0px 60px black;
 }
+.localisation{
+    border-radius: 70px 70px;
+}
 
 footer{
     color: white;
