@@ -69,10 +69,21 @@ a{
     border-color: black;
     padding: 40px;
     text-align: center;
+    box-shadow: 10px 5px 5px rgba(0, 0, 0.5);
     transition: 1s;
 }
 
 .box:hover{
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
+}
+footer{
+    height: 115px;
+    background-color: rgb(15, 31, 82);
+    border-top: solid black 2px;
+    width: 100%;
+    position: relative;
+        top: 170px;
+        right: 0px;
+        left: 0px;
 }
