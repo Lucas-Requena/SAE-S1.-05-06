@@ -57,9 +57,11 @@ a{
     height: 35%;
     width: 42%;
 }
+
 .img1{
-    margin-top: 20px;
+    margin-top: 0px;
 }
+
 .section1{
     border-radius: 50px 50px;
     background-color: rgb(122, 166, 233);
