@@ -79,6 +79,9 @@ a{
     height: 5px;
     border-radius: 6px;
 }
+.#{
+    margin-bottom: 50px;
+}
 .images {
     margin: 100px auto;
     padding: 0 8%;
