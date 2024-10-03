@@ -61,7 +61,9 @@ a{
 .flex{
     display: flex;
 }
-
+.tableau{
+    margin: auto;
+}
 .box{
     background-color: rgb(0, 140, 255);
     margin: 30px;
