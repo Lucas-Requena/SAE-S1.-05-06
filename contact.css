@@ -83,6 +83,10 @@ a{
     height: 200px;
 }
 
+#content{
+    flex-grow: 1;
+}
+
 footer{
     height: 115px;
     background-color: rgb(122, 166, 233);
