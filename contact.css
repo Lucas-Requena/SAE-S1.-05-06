@@ -61,6 +61,10 @@ a{
 .flex{
     display: flex;
 }
+.texte{
+    margin-top: 80px;
+}
+    
 .tableau{
     margin: auto;
     border-spacing: 100px 0px;
