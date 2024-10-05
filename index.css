@@ -7,10 +7,7 @@ body{
     text-decoration-color: white;
 }
 
-a{
-    text-decoration: none;
-    color: rgb(255, 255, 255);
-}
+
 
 header {
     height: 75px;
@@ -19,6 +16,25 @@ header {
     width: 100%;
     position: fixed;
 }
+
+.menu{
+    margin-top: 0px;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+nav ul li{
+    margin-left: 130px;
+    transition-duration: 0.5s;
+    margin: auto;
+}   
+
+nav ul li:hover{
+    background-color: rgba(41, 101, 221, 0.705);
+}
+
 
 
 nav{
@@ -29,30 +45,13 @@ nav{
     top: 0px;
 }
 
-.menu{
-    margin-top: 0px;
-}
 
 nav ul ::after{
     content: "";
     display: table;
         clear: both;
 }
-
-
-
-nav ul li{
-    margin-left: 130px;
-    transition-duration: 0.5s;
-    margin: auto;
-    width: 75px;
-}   
-
-nav ul li:hover{
-    background-color: rgba(41, 101, 221, 0.705);
-    width: 75px;
-}
-
+    
 nav a{
     display: block;
     text-decoration: none;
