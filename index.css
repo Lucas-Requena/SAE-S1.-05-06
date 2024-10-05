@@ -7,6 +7,11 @@ body{
     text-decoration-color: white;
 }
 
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
 header {
     height: 75px;
     background-color: rgb(122, 166, 233);
@@ -15,14 +20,26 @@ header {
     position: fixed;
 }
 
+
+nav{
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    position: sticky;
+    top: 0px;
+}
+
 .menu{
     margin-top: 0px;
 }
 
-a{
-    text-decoration: none;
-    color: rgb(255, 255, 255);
+nav ul ::after{
+    content: "";
+    display: table;
+        clear: both;
 }
+
+
 
 nav ul li{
     margin-left: 130px;
@@ -33,20 +50,7 @@ nav ul li{
 
 nav ul li:hover{
     background-color: rgba(41, 101, 221, 0.705);
-}
-
-nav{
-    width: 100%;
-    margin: 0 auto;
-    background-color: white;
-    position: sticky;
-    top: 0px;
-}
-
-nav ul ::after{
-    content: "";
-    display: table;
-        clear: both;
+    width: 75px;
 }
 
 nav a{
@@ -62,7 +66,7 @@ nav a{
     background-color: rgba(41, 101, 221, 0.705);
     position: absolute;
     z-index: 1000;
-    width: 100%;
+    
 }
 
 nav > ul li:hover .sous{
