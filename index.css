@@ -28,6 +28,7 @@ nav ul li{
     margin-left: 130px;
     transition-duration: 0.5s;
     margin: auto;
+    width: 75px;
 }   
 
 nav ul li:hover{
@@ -58,7 +59,7 @@ nav a{
 
 .sous{
     display: none;
-    background-color: rgba(255, 255, 255, 0);
+    background-color: rgba(41, 101, 221, 0.705);
     position: absolute;
     z-index: 1000;
     width: 100%;
