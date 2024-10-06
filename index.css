@@ -55,7 +55,7 @@ nav ul ::after{
 nav a{
     display: block;
     text-decoration: none;
-    color: black;
+    color: white;
     border-bottom: 2px solid transparent;
     padding: 10px 0px;
 }
@@ -127,7 +127,7 @@ ul,li{
 
 .section1{
     border-radius: 50px 50px;
-    background-color: rgb(122, 166, 233);
+    background-color: rgb(175, 216, 243);
     margin-top: 12%;
     width: 60%;
     height: 1300px;
