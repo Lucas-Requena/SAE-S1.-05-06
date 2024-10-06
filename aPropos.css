@@ -1,10 +1,9 @@
 body{
     margin: 0px;
-    background-image: url(fond.png);
+    background-color: rgb(175, 216, 243);
     font-family: "Lato", sans-serif;
     font-weight: 550;
     font-style: normal;
-    text-decoration-color: white;
 }
 
 
