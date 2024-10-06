@@ -26,6 +26,7 @@ a{
 }
 
 nav ul li{
+    width: 150px;
     margin-left: 130px;
     transition-duration: 0.5s;
     margin: auto;
@@ -74,7 +75,7 @@ nav > ul li:hover .sous{
 
 .sous li{
     margin-right: 50%;
-    width: 7%;
+    width: 15%;
     text-align: center;
 }
 
