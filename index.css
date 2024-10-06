@@ -65,7 +65,7 @@ nav a{
     background-color: rgba(41, 101, 221, 0.705);
     position: absolute;
     z-index: 1000;
-    width: 100%;
+    width: 100px;
 }
 
 nav > ul li:hover .sous{
