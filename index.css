@@ -79,13 +79,11 @@ nav > ul li:hover .sous{
 }
 
 .sous a{
-    padding-bottom: 10px;
     border-bottom: none;
 }
 
 .sous a:hover{
-    border-bottom: none;
-    background-color: rgba(41, 101, 221, 0.705);
+    color: black;
 }
 
 nav ul li{
