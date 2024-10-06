@@ -121,10 +121,6 @@ ul,li{
     width: 42%;
 }
 
-.img1{
-    margin-top: 0px;
-}
-
 .section1{
     border-radius: 50px 50px;
     background-color: rgb(175, 216, 243);
@@ -132,6 +128,16 @@ ul,li{
     width: 60%;
     height: 1300px;
     box-shadow: 0px 0px 60px black;
+}
+
+.img1{
+    margin-top: 0px;
+}
+
+.txt1{
+    width: 240px;
+    float: right;
+    margin-right: 10px;
 }
 
 .localisation{
