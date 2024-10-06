@@ -1,49 +1,100 @@
 body{
-    background-color: rgb(175, 216, 243);;
+    margin: 0px;
+    background-image: url(fond.png);
     font-family: "Lato", sans-serif;
     font-weight: 550;
     font-style: normal;
+    text-decoration-color: white;
 }
 
+
+
 header {
-    z-index: 3;
     height: 75px;
     background-color: rgb(122, 166, 233);
     border-bottom: solid rgb(255, 255, 255) 2px;
     width: 100%;
     position: fixed;
-        top: 0px;
-        left: 0px;
-        right: 0px;
 }
 
 .menu{
-    padding-top: 10px;
-    border-spacing: 170px 0px;
+    margin-top: 0px;
 }
-
 a{
     text-decoration: none;
     color: rgb(255, 255, 255);
 }
 
-.menu1{
-    height: 50px;
-    width: 120px;
+nav ul li{
+    width: 150px;
+    margin-left: 130px;
     transition-duration: 0.5s;
-    text-align: center;
+    margin: auto;
 }   
 
-.menu1:hover{
+nav ul li:hover{
     background-color: rgba(41, 101, 221, 0.705);
 }
 
-.menu2{
-    height: 50px;
-    width: 50px;
+
+
+nav{
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    position: sticky;
+    top: 0px;
+}
+
+
+nav ul ::after{
+    content: "";
+    display: table;
+        clear: both;
+}
+    
+nav a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    border-bottom: 2px solid transparent;
+    padding: 10px 0px;
+}
+
+.sous{
+    display: none;
+    background-color: rgba(41, 101, 221, 0.705);
     position: absolute;
-        top: 15%;
-        right: 1.4%;
+    z-index: 1000;
+    width: 292px;
+    margin-right: 20px;
+}
+
+nav > ul li:hover .sous{
+    display: block;
+}
+
+.sous li{
+    width: 100%;
+    text-align: center;
+}
+
+.sous a{
+    border-bottom: none;
+}
+
+.sous a:hover{
+    color: black;
+}
+
+nav ul li{
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+ul,li{
+    list-style: none;
 }
 
 .menu3{
