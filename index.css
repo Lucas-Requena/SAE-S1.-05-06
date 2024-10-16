@@ -125,11 +125,13 @@ ul,li{
     display: flex;
     justify-content: center;
     justtify-content: space-between;
+    border-bottom: solid gray 2px;
 }
 
 .jeu1{
     margin-right: 55px;
     width: 220px;
+    border: solid gray 2px;
 }
 .étage1{
     border: solid black 1px;
