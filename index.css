@@ -122,10 +122,10 @@ ul,li{
 }
 
 .etage0{
+    margin-top: 3%;
     display: flex;
     justify-content: center;
     justtify-content: space-between;
-    border-bottom: solid gray 2px;
 }
 
 .jeu1{
@@ -133,12 +133,8 @@ ul,li{
     width: 220px;
     border: solid gray 2px;
 }
-.étage1{
-    border: solid black 1px;
-}
 
 .img0{
-    margin-top: 5%;
     width: 180px;
     height: 250px;
     border: solid gray 3px;
