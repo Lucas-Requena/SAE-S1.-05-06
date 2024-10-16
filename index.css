@@ -121,7 +121,7 @@ ul,li{
     box-shadow: 0px 0px 60px black;
 }
 
-.étage1{
+.etage0{
     display: flex;
     flex-wrap: nowrap;
     flex-direction: row;
