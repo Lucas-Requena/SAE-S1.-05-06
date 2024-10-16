@@ -134,17 +134,12 @@ ul,li{
 .étage1{
     border: solid black 1px;
 }
+
 .img0{
     margin-top: 5%;
     width: 180px;
     height: 250px;
     border: solid gray 3px;
-}
-    
-.txt1{
-    width: 240px;
-    float: right;
-    margin-right: 10px;
 }
 
 .localisation{
