@@ -128,10 +128,15 @@ ul,li{
         flex-direction: row;
 }
 
-
+.jeu1{
+    width: 220px;
+}
+    
 .img0{
+    margin-top: 5%;
     width: 180px;
     height: 250px;
+    border: solid gray 2px;
 }
     
 .txt1{
