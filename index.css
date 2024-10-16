@@ -124,7 +124,7 @@ ul,li{
 .etage0{
     display: flex;
     justify-content: center;
-    justtify-content: space-evenly;
+    justtify-content: space-between;
 }
 
 .jeu1{
