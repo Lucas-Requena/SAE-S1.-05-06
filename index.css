@@ -123,8 +123,9 @@ ul,li{
 
 .etage0{
     display: flex;
-    flex-wrap: nowrap;
-    flex-direction: row;
+    justify-content: center;
+        flex-wrap: nowrap;
+        flex-direction: row;
 }
 
 
