@@ -121,6 +121,13 @@ ul,li{
     box-shadow: 0px 0px 60px black;
 }
 
+.étage1{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+
 .img0{
     width: 150px;
     height: 450px;
