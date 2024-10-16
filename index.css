@@ -126,6 +126,7 @@ ul,li{
     justify-content: center;
         flex-wrap: nowrap;
         flex-direction: row;
+    justtify-content: space-evenly;
 }
 
 .jeu1{
@@ -136,7 +137,7 @@ ul,li{
     margin-top: 5%;
     width: 180px;
     height: 250px;
-    border: solid gray 2px;
+    border: solid gray 3px;
 }
     
 .txt1{
