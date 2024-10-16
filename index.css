@@ -121,10 +121,11 @@ ul,li{
     box-shadow: 0px 0px 60px black;
 }
 
-.img1{
-    margin-top: 0px;
+.img0{
+    width: 150px;
+    height: 450px;
 }
-
+    
 .txt1{
     width: 240px;
     float: right;
