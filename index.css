@@ -131,7 +131,9 @@ ul,li{
     margin-right: 55px;
     width: 220px;
 }
-    
+.étage1{
+    border: solid black 1px;
+}
 .img0{
     margin-top: 5%;
     width: 180px;
