@@ -124,8 +124,6 @@ ul,li{
 .etage0{
     display: flex;
     justify-content: center;
-        flex-wrap: nowrap;
-        flex-direction: row;
     justtify-content: space-evenly;
 }
 
