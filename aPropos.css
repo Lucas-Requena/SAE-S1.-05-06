@@ -30,6 +30,7 @@ a{
 
     display: flex;
     align-items: center;
+    text-align: center;
 }
 
 nav ul li{
@@ -72,7 +73,7 @@ nav a{
     display: none;
     background-color: rgba(41, 101, 221, 0.705);
     margin-right: 20px;
-    margin-left: 50px;
+    
     
 }
 
