@@ -21,6 +21,15 @@ header {
 .menu{
     margin-top: 0px;
 }
+
+
+.aProp{
+    
+    display: box;
+    align-items: center;
+    text-align: center;
+}
+
 a{
     text-decoration: none;
     color: rgb(255, 255, 255);
