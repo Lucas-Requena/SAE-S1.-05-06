@@ -125,7 +125,7 @@ ul,li{
 .etage0{
     display: flex;
     justify-content: center;
-    justtify-content: space-between;
+    margin-left: 45px;
 }
 
 .txt0{
@@ -146,21 +146,34 @@ ul,li{
     border: solid gray 3px;
 }
 
-.maps{
-    width: 250px;
-    height: 250px;
-    margin-left: 10px;
-}
-
 .img1{
     width: 100px;
     height: 100px;
 }
 
 .étage1{
-    margin-top: 25px;
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     border-top: solid gray 2px;
     border-bottom: solid gray 2px;
+}
+
+.étage2{
+    display:flex
+    justify-content: flex-start;
+}
+    
+.maps{
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+    transition: 0.4s;
+}
+
+.maps:hover{
+    width: 300px;
+    height: 300px;
 }
 
 footer{
