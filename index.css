@@ -152,12 +152,14 @@ ul,li{
 }
 
 .étage1{
-    margin-top: 25px;
+    margin-top: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     border-top: solid gray 2px;
     border-bottom: solid gray 2px;
 }
 
-.étage4{
+.étage2{
     display:flex
     justify-content: flex-start;
 }
