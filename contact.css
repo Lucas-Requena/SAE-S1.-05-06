@@ -135,7 +135,7 @@ ul,li{
 }
 .tableau td{
     text-align: center;
-    border: solid white 3px;
+    border: solid blue 3px;
 }
 .image{
     transition: 1s;
