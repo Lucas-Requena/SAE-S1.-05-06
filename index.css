@@ -147,10 +147,18 @@ ul,li{
 }
 
 .maps{
+    display:flex
+    justify-content: flex-start;
     width: 250px;
     height: 250px;
     margin-left: 10px;
 }
+
+.maps:hover{
+    width: 280px;
+    height: 280px;
+}
+    
 
 .img1{
     width: 100px;
