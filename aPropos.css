@@ -120,6 +120,7 @@ ul,li{
     width: 100%;
     height: 5px;
     border-radius: 6px;
+    margin-right: auto;
 }
 .section_title:after {
     position: absolute;
@@ -130,6 +131,7 @@ ul,li{
     width: 100%;
     height: 5px;
     border-radius: 6px;
+    margin-right: auto;
 }
 .#{
     margin-bottom: 50px;
