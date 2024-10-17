@@ -125,7 +125,7 @@ ul,li{
     margin-top: 150px;
 }
 td{
-    text_align: center;
+    margin: auto;
     border: solid black 3px;
 }
 .image{
