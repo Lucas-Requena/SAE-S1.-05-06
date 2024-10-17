@@ -131,9 +131,9 @@ ul,li{
     border-spacing: 50px 0px;
     margin-top: 150px;
 }
-td{
-    margin: auto;
-    border: solid black 3px;
+.tableau td{
+    text-align: center;
+    border: solid green 3px;
 }
 .image{
     transition: 1s;
