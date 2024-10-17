@@ -71,10 +71,7 @@ nav a{
 
 .sous{
     display: none;
-    background-color: rgba(41, 101, 221, 0.705);
-    margin-right: 20px;
-    
-    
+    background-color: rgba(41, 101, 221, 0.705);  
 }
 
 nav > ul li:hover .sous{
