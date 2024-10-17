@@ -20,6 +20,7 @@ header {
 
 .menu{
     margin-top: 0px;
+    text-align: center;
 }
 
 
@@ -37,7 +38,6 @@ a{
 
 nav ul li{
     width: 150px;
-    margin-left: 130px;
     transition-duration: 0.5s;
     margin: auto;
 }   
@@ -74,10 +74,8 @@ nav a{
 .sous{
     display: none;
     background-color: rgba(41, 101, 221, 0.705);
-    position: absolute;
-    z-index: 1000;
-    width: 292px;
-    margin-right: 20px;
+
+
 }
 
 nav > ul li:hover .sous{

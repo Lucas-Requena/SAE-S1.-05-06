@@ -19,6 +19,14 @@ header {
 .menu{
     margin-top: 0px;
 }
+
+.aProp{
+    
+    display: box;
+    align-items: center;
+    text-align: center;
+}
+
 a{
     text-decoration: none;
     color: rgb(255, 255, 255);
@@ -61,13 +69,13 @@ nav a{
 }
 
 .sous{
+    
     display: none;
     background-color: rgba(41, 101, 221, 0.705);
-    position: absolute;
-    z-index: 1000;
-    width: 292px;
-    margin-right: 20px;
-}
+    
+    
+    }
+
 
 nav > ul li:hover .sous{
     display: block;
