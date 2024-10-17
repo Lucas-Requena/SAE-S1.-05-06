@@ -129,12 +129,12 @@ ul,li{
 }
     
 .tableau{
-    margin: auto;
+    padding: auto;
     border-spacing: 50px 0px;
     margin-top: 150px;
 }
 td{
-    text_align: center;
+    margin: auto;
     border: solid black 3px;
 }
 .image{
