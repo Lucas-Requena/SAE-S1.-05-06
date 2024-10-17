@@ -112,7 +112,7 @@ ul,li{
 
 .section1{
     border-radius: 50px 50px;
-    background-color: rgb(175, 216, 243);
+    background-color: rgb(173,216,230);
     margin-top: 12%;
     width: 80%;
     height: 90%;
@@ -139,13 +139,13 @@ ul,li{
     width: 250px;
     border: solid black 2px;
     padding: 15px;
-    background: rgb(230,230,190);
+    background: rgb(163,198,215);
 }
 
 .img0{
     width: 180px;
     height: 250px;
-    border: solid gray 3px;
+    border: solid black 3px;
 }
 
 .img1{

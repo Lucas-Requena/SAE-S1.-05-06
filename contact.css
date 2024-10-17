@@ -123,14 +123,14 @@ ul,li{
     margin: auto;
     border-spacing: 50px 0px;
     margin-top: 150px;
-
+    border: solid black 3px;
 }
 .image{
-    transition: 3s;
+    transition: 1s;
 }
 .image:hover{
-    width: 250px;
-    height: 250px;
+    width: 180px;
+    height: 180px;
 }
 .box{
     background-color: rgb(0, 140, 255);
