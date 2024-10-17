@@ -128,10 +128,15 @@ ul,li{
     justtify-content: space-between;
 }
 
+.txt0{
+    margin-top: 10%;
+} 
+
 .jeu1{
-    margin-right: 55px;
-    width: 220px;
+    margin-right: 50px;
+    width: 250px;
     border: solid gray 2px;
+    padding: 15px;
 }
 
 .img0{
