@@ -126,7 +126,7 @@ ul,li{
 
 }
 .image{
-    transition: 1s;
+    transition: 3s;
 }
 .image:hover{
     width: 250px;
