@@ -69,6 +69,7 @@ nav a{
     z-index: 1000;
     width: 292px;
     margin-right: 20px;
+    text-align: center;
 }
 
 nav > ul li:hover .sous{
