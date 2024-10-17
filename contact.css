@@ -133,7 +133,7 @@ ul,li{
 }
 .tableau td{
     text-align: center;
-    border: solid green 3px;
+    border: solid silver 3px;
 }
 .image{
     transition: 1s;
