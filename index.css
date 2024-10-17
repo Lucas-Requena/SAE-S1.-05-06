@@ -146,21 +146,6 @@ ul,li{
     border: solid gray 3px;
 }
 
-.maps{
-    display:flex
-    justify-content: flex-start;
-    width: 250px;
-    height: 250px;
-    margin-left: 10px;
-    transition: 0.3s;
-}
-
-.maps:hover{
-    width: 280px;
-    height: 280px;
-}
-    
-
 .img1{
     width: 100px;
     height: 100px;
@@ -170,6 +155,23 @@ ul,li{
     margin-top: 25px;
     border-top: solid gray 2px;
     border-bottom: solid gray 2px;
+}
+
+.étage4{
+    display:flex
+    justify-content: flex-start;
+}
+    
+.maps{
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+    transition: 0.4s;
+}
+
+.maps:hover{
+    width: 300px;
+    height: 300px;
 }
 
 footer{
