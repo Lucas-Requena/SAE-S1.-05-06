@@ -28,11 +28,13 @@ a{
 }
 
 .aProp{
-
+    
     display: flex;
     align-items: center;
     text-align: center;
 }
+
+
 
 nav ul li{
     width: 150px;
