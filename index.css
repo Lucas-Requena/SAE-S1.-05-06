@@ -150,6 +150,16 @@ ul,li{
     border-radius: 70px 70px;
 }
 
+.img1{
+    width: 100px;
+    height: 100px;
+}
+
+.étage1{
+    border-top: solid gray 2px;
+    border-bottom: solid gray 2px;
+}
+
 footer{
     color: white;
     height: 115px;
