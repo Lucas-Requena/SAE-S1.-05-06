@@ -133,8 +133,8 @@ ul,li{
     border-spacing: 50px 0px;
     margin-top: 150px;
 }
-td{
-    margin: auto;
+.tableau td{
+    text-align: center;
     border: solid black 3px;
 }
 .image{
