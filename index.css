@@ -146,6 +146,12 @@ ul,li{
     border: solid gray 3px;
 }
 
+.maps{
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+}
+
 .img1{
     width: 100px;
     height: 100px;
