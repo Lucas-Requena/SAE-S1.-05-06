@@ -51,7 +51,7 @@ nav ul ::after{
     content: "";
     display: table;
         clear: both;
-        margin-right: auto;
+        margin-right: 500px;
 }
     
 nav a{
