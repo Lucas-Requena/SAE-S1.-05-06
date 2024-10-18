@@ -142,13 +142,7 @@ ul,li{
     text-align: center;
     border: solid black 3px;
 }
-.image{
-    transition: 1s;
-}
-.image:hover{
-    width: 180px;
-    height: 180px;
-}
+
 .box{
     background-color: rgb(0, 140, 255);
     margin: 30px;
@@ -163,13 +157,12 @@ ul,li{
     transition: 1s;
 }
 
-.box:hover{
-    width: 200px;
-    height: 200px;
-}
-
 #content{
     flex-grow: 1;
+}
+
+.tableau{
+    border-radius: 10px;
 }
 
 footer{
