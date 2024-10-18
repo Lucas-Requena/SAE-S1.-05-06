@@ -338,3 +338,13 @@ footer a {
     color: white; /* Couleur du texte */
 }
 
+footer button {
+    background-color: #071f3c; /* Couleur du bouton */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px; /* Coins arrondis */
+    transition: background-color 0.3s ease; /* Effet lors du survol */
+}
+
