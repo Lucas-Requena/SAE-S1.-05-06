@@ -253,16 +253,6 @@ section p {
     color: white;
 }
 
-footer{
-    height: 115px;
-    background-color: rgb(122, 166, 233);
-    border-top: solid white 2px;
-    width: 100%;
-    position: relative;
-        top: 170px;
-        right: 0px;
-        left: 0px;
-}
 
 .section_0{
     display: flex;
