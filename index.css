@@ -1,6 +1,6 @@
 body{
     margin: 0px;
-    background-image: url(lightblue);
+    background-image: url(image/fond.png);
     font-family: "Lato", sans-serif;
     font-weight: 550;
     font-style: normal;
@@ -84,6 +84,9 @@ nav a{
 nav > ul li:hover .sous{
     display: block;
     padding-inline-start: 0;
+    width: 63.75%;
+    margin-left: 18%;
+    text-align: center;
 }
 
 .sous li{
