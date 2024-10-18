@@ -196,13 +196,18 @@ section p {
     letter-spacing: 1px;
 }
 
+.section__ {
+    background-color: rgb(122, 166, 233);
+}
+
 .section__1 {
     background-color: rgb(122, 166, 233);
+    margin-top: 100px;
+    color: white;
 }
 
 .section__2 {
     background-color: rgb(122, 166, 233);
-    margin-top: 100px;
     color: white;
 }
 
@@ -216,17 +221,12 @@ section p {
     color: white;
 }
 
-.section__5 {
+.section__5{
     background-color: rgb(122, 166, 233);
     color: white;
 }
 
 .section__6{
-    background-color: rgb(122, 166, 233);
-    color: white;
-}
-
-.section__7{
     background-color: rgb(122, 166, 233);
     color: white;
 }
