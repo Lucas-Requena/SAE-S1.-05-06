@@ -37,4 +37,9 @@ Partie 3 du rapport:Pasteur Julian+ Lucas Requena
 Partie 4 du rapport: Romain Olivry  
 Sitographie+annexe: Tout le Monde  
 
+#contributeur:
+
+![image](https://github.com/user-attachments/assets/bcc00f97-9133-497b-93cb-77f3dc1b7e53)
+
+
 
