@@ -18,23 +18,23 @@ Actuellement, le projet est terminé dans les délais demmandé.
 
 # répartition travail:
 
-Création et réalisation du ReadMe, mise à jour des informations et avancement : Lucas Requena
-Questionnaire n°1 : Gedeon Pambot et Lucas Requena
-Questionnaire n°2 : Lucas Requena
-Planning prévisionnel : Romain Olivry
-Maquettage et W3C : groupe entier
-Page d’accueil: Julian Pasteur
-Barre de Navigation: Julian Pasteur+(dans une moindre mesure) Lucas Requena
-Page Contact:Lucas Requena+Serine Hamitouche(Qui l'a entièrement changé et remodelé pour correspondre aux attentes)
-Page Jeux Video: Gedeon Pambot+ Lucas Requena(dans une moindre mesure)
-Page Rapport économique: Romain Olivry
-Page Notre entreprise: Gedeon Pambot
-Les Pieds de Page: Lucas Requena+Gedeon Pambot
-Mise en page du rapport(sommaire,numérotation des pages,mise en commun des élément de chacun): Lucas Requena
-Partie 1 du rapport: Serine Hamitouche
-Partie 2 du rapport:Gedeon Pasteur
-Partie 3 du rapport:Pasteur Julian+ Lucas Requena
-Partie 4 du rapport: Romain Olivry
-Sitographie+annexe: Tout le Monde
+Création et réalisation du ReadMe, mise à jour des informations et avancement : Lucas Requena.
+Questionnaire n°1 : Gedeon Pambot et Lucas Requena.
+Questionnaire n°2 : Lucas Requena.
+Planning prévisionnel : Romain Olivry.
+Maquettage et W3C : groupe entier.
+Page d’accueil: Julian Pasteur.
+Barre de Navigation: Julian Pasteur+(dans une moindre mesure) Lucas Requena.
+Page Contact:Lucas Requena+Serine Hamitouche(Qui l'a entièrement changé et remodelé pour correspondre aux attentes).
+Page Jeux Video: Gedeon Pambot+ Lucas Requena(dans une moindre mesure).
+Page Rapport économique: Romain Olivry.
+Page Notre entreprise: Gedeon Pambot.
+Les Pieds de Page: Lucas Requena+Gedeon Pambot.
+Mise en page du rapport(sommaire,numérotation des pages,mise en commun des élément de chacun): Lucas Requena.
+Partie 1 du rapport: Serine Hamitouche.
+Partie 2 du rapport:Gedeon Pasteur.
+Partie 3 du rapport:Pasteur Julian+ Lucas Requena.
+Partie 4 du rapport: Romain Olivry.
+Sitographie+annexe: Tout le Monde.
 
 
