@@ -120,6 +120,9 @@ ul,li{
         left: 1.2%;
 }
 
+img {
+  height: 500px;
+}
 
 button {
     padding: 6px 15px;
