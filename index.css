@@ -81,9 +81,9 @@ nav a{
     }
 
 
-/* nav > ul li:hover .sous{
+nav > ul li:hover .sous{
     display: block;
-} */
+}
 
 .sous li{
     width: 100%;
@@ -123,7 +123,7 @@ ul,li{
 }
 
 .section1{
-    border-radius: 50px 50px;
+    border-radius: 20px;
     background-color: rgb(173,216,230);
     margin-top: 12%;
     width: 80%;
