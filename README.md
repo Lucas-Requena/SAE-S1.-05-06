@@ -36,6 +36,12 @@ Partie 2 du rapport:Gedeon Pasteur
 Partie 3 du rapport:Pasteur Julian+ Lucas Requena  
 Partie 4 du rapport: Romain Olivry  
 Sitographie+annexe: Tout le Monde  
+# validité des pages:
+
+la page "notre entreprise":
+
+![image](https://github.com/user-attachments/assets/6d024339-8646-418d-a378-f4b7aea8fd9e)
+
 
 # contributeur:
 
