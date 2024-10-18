@@ -1,6 +1,6 @@
 body{
     margin: 0px;
-    background-image: url(image/fond.png);
+    background-image: url(lightblue);
     font-family: "Lato", sans-serif;
     font-weight: 550;
     font-style: normal;
@@ -54,7 +54,7 @@ nav{
 }
 
 .navbtn {
-    padding: 0 40px;
+    padding: 0 60px;
 }
 
 nav ul ::after{
