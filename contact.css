@@ -1,13 +1,11 @@
 body{
     margin: 0px;
-    background-color: rgb(175, 216, 243);
+    background-image: url(image/fond.png);
     font-family: "Lato", sans-serif;
     font-weight: 550;
     font-style: normal;
+    text-decoration-color: white;
 }
-
-
-
 
 header {
     height: 75px;
@@ -20,9 +18,7 @@ header {
 
 .menu{
     margin-top: 0px;
-    text-align: center;
 }
-
 
 .aProp{
     
@@ -38,11 +34,12 @@ a{
 
 nav ul li{
     width: 150px;
+    margin-left: 130px;
     transition-duration: 0.5s;
     margin: auto;
 }   
 
-nav ul li:hover{
+nav a:hover{
     background-color: rgba(41, 101, 221, 0.705);
 }
 
@@ -56,6 +53,9 @@ nav{
     top: 0px;
 }
 
+.navbtn {
+    padding: 0 40px;
+}
 
 nav ul ::after{
     content: "";
@@ -68,18 +68,22 @@ nav a{
     text-decoration: none;
     color: white;
     border-bottom: 2px solid transparent;
-    padding: 10px 0px;
+    padding: 10px 10px;
+    border-radius: 3px;
 }
 
 .sous{
+    
     display: none;
     background-color: rgba(41, 101, 221, 0.705);
+    
+    
+    }
 
-
-}
 
 nav > ul li:hover .sous{
     display: block;
+    padding-inline-start: 0;
 }
 
 .sous li{
