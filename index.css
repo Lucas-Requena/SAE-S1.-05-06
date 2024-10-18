@@ -181,6 +181,7 @@ ul,li{
 .étage2{
     display:flex
     justify-content flex-start;
+    background: rgb(163,198,215);
 }
     
 .maps{
