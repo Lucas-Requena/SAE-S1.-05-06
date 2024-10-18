@@ -126,6 +126,10 @@ ul,li{
     width: 42%;
 }
 
+.tout {
+    display: flex;
+    justify-content: center;  
+}
 .section1{
     border-radius: 50px 50px;
     background-color: rgb(173,216,230);
