@@ -83,6 +83,7 @@ nav a{
 
 nav > ul li:hover .sous{
     display: block;
+    padding-inline-start: 0;
 }
 
 .sous li{
@@ -123,7 +124,7 @@ ul,li{
 }
 
 .section1{
-    border-radius: 20px;
+    border-radius: 50px 50px;
     background-color: rgb(173,216,230);
     margin-top: 12%;
     width: 80%;
