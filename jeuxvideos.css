@@ -332,3 +332,9 @@ footer p {
     font-size: 14px;
     color: #ddd;
 }
+
+footer a {
+    text-decoration: none; /* Supprime le soulignement du lien */
+    color: white; /* Couleur du texte */
+}
+
