@@ -49,9 +49,8 @@ https://validator.w3.org/nu/#textarea
 ![Showing results for contents of text-input area - Nu Html Checker - Google Chrome 18_10_2024 22_27_22](https://github.com/user-attachments/assets/d1bd8cf7-8998-4c99-94f6-1575827e7146)
 ![Showing results for contents of text-input area - Nu Html Checker - Google Chrome 18_10_2024 22_37_13](https://github.com/user-attachments/assets/5b47962f-047c-462e-bb31-5fc4218ad189)
 
-
-
-
+La page " jeux de videos"
+![image0](https://github.com/user-attachments/assets/1eecce54-224b-4c31-ba23-036dd718c12f)
 # contributeur:
 
 ![image](https://github.com/user-attachments/assets/bcc00f97-9133-497b-93cb-77f3dc1b7e53)
