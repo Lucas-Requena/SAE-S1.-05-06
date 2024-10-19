@@ -43,6 +43,8 @@ https://validator.w3.org/nu/?doc=https%3A%2F%2Flucas-requena.github.io%2FSAE-S1.
 ![image](https://github.com/user-attachments/assets/6d024339-8646-418d-a378-f4b7aea8fd9e)  
 ![image](https://github.com/user-attachments/assets/0d24b0d3-ae5c-41f8-ad27-ee0e20d7ce32)
 ![image](https://github.com/user-attachments/assets/dae1b269-f049-4eff-9d62-0904edd7e383)
+![Indice_ecologique_Index](https://github.com/user-attachments/assets/d3b9f9ab-fe4b-4fd1-99af-e833313739ca)
+
 
 
 
